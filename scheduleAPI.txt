@@ -1,7 +1,0 @@
-Options for a scheduling API
-
-calendly.com
-setmore.com
-appointlet.com
-acuityscheduling.com
-https://simplybook.me/
